@@ -16,7 +16,7 @@ Several images are loaded and preprocessed in Python; each is normalized and div
 
 The original image responsible for the cluster map above is displayed here alongside its reconstruction: <br>
 
-![](high_comp.png).
+![](high_comp.png)
 
 For other results with a low and medium complexity image and a more detailed overview of the network see the attached pdf: **ECE 550 ARTNN Application**.pdf
 
