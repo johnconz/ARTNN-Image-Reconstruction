@@ -1,4 +1,4 @@
-# ARTNN-Image-Reconstruction
+# Project Overview
 
 This undertaking involved implementing a two layer **Adaptive Resonance Theory Neural Network (ARTNN)** in Python. The ARTNN utilizes unsupervised learning, or learning patterns and classifying output without labels by testing each new pattern it encounters against existing ones. <br>
 
